@@ -1,7 +1,11 @@
 ---
-marp: true
-theme: gaia
-size: 16:9
+title: わいの情報収集方法
+author: ikura1
+theme: white
+transition: "slide"
+transitionSpeed: "fast"
+controls: false
+center: true
 ---
 
 ## **ドラッカー風エクササイズ**
@@ -15,10 +19,10 @@ size: 16:9
 ---
 
 ## 流れ
-1. ドラッカー風エクササイズとは(3min)
-1. 回答の記入(3min * 4)
-1. 回答の発表(5min * 人数)
-1. クロージング(3min)
+1. 目的
+1. ドラッカー風エクササイズとは(2分)
+1. ワークショップ(50分)
+1. クロージング(3分)
 
 ---
 
@@ -37,15 +41,28 @@ size: 16:9
 
 ---
 
-## 書いていきましょう!
+## ワークショップ
 
-https://www.figma.com/file/FNXtvdtrKA2tzIL0jKvyBg/DruckerExercise?node-id=0%3A1
 
-だめならJamBoard
+やっていきましょう！！<br>
+[ホワイトボードのURLを書く]()
+
+<!-- だめならJamBoard -->
 
 ---
+
+## ワークショップの流れ
+
+- 回答を書く(2分)
+- 回答を順に発表(1分*人数)
+- 回答への一言(1分*人数)
+
+
+---
+
 ### 回答方法
-一つの質問にがんばって、3つ回答絞り出しましょう
+* 回答時間は2分！
+* 3つの回答!
 
 ---
 
@@ -57,6 +74,18 @@ https://www.figma.com/file/FNXtvdtrKA2tzIL0jKvyBg/DruckerExercise?node-id=0%3A1
 * 細かいところに気づく
 * 責任感が強い
 
+--
+
+✏回答タイム✏{.r-fit-text}
+
+--
+
+🎤発表タイム🎤{.r-fit-text}
+
+--
+
+💌感想タイム💌{.r-fit-text}
+
 ---
 
 ### 自分はどういう風に仕事をするか🟦
@@ -64,7 +93,20 @@ https://www.figma.com/file/FNXtvdtrKA2tzIL0jKvyBg/DruckerExercise?node-id=0%3A1
 
 **例**
 * 朝方
-* 感謝
+* １人の時間が大切
+* 細かいタスク
+
+--
+
+✏回答タイム✏{.r-fit-text}
+
+--
+
+🎤発表タイム🎤{.r-fit-text}
+
+--
+
+💌感想タイム💌{.r-fit-text}
 
 ---
 
@@ -76,6 +118,18 @@ https://www.figma.com/file/FNXtvdtrKA2tzIL0jKvyBg/DruckerExercise?node-id=0%3A1
 * 楽しさ
 * 継続的改善
 
+--
+
+✏回答タイム✏{.r-fit-text}
+
+--
+
+🎤発表タイム🎤{.r-fit-text}
+
+--
+
+💌感想タイム💌{.r-fit-text}
+
 ---
 
 ### チームメンバーは自分にどんな成果を期待してると思うか🟨
@@ -85,6 +139,20 @@ https://www.figma.com/file/FNXtvdtrKA2tzIL0jKvyBg/DruckerExercise?node-id=0%3A1
 * イケてるコード
 * チームビルティング
 * 開発プロセス改善
+
+--
+
+✏回答タイム✏{.r-fit-text}
+
+--
+
+🎤発表タイム🎤{.r-fit-text}
+
+--
+
+💌感想タイム💌{.r-fit-text}
+
+<!-- ここまで毎回発表スタイルでスライド作ったけど、まとめた発表時間があった方がいいな -->
 
 ---
 
