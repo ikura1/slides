@@ -1,0 +1,27 @@
+# Marp configuration file
+inputDir: .
+output: output
+html: true
+pdf: false
+
+# Theme settings
+theme: default
+themeSet: 
+  - default
+  - gaia
+
+# Output settings
+allowLocalFiles: true
+preview: false
+
+# File patterns to include
+include:
+  - "slides/marp/*.md"
+  - "slides/*.md"
+  - "*.md"
+
+# Exclude patterns
+exclude:
+  - "node_modules/**"
+  - "README.md"
+  - "CLAUDE.md"
