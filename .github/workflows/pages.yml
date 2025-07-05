@@ -38,6 +38,12 @@ jobs:
           generate-html: true
           generate-pdf: false
       
+      - name: Debug output directory
+        run: |
+          echo "Contents of output directory:"
+          ls -la output/ || echo "Output directory not found"
+          find output/ -type f -name "*.html" || echo "No HTML files found"
+      
       - name: Setup Pages
         uses: actions/configure-pages@v4
       
@@ -46,6 +52,7 @@ jobs:
         with:
           # Upload output directory
           path: './output'
+          if-no-files-found: warn
       
       - name: Deploy to GitHub Pages
         id: deployment

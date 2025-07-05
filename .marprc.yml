@@ -3,6 +3,7 @@ inputDir: .
 output: output
 html: true
 pdf: false
+bespoke: false
 
 # Theme settings
 theme: default
